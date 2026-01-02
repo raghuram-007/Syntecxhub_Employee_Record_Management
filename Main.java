@@ -62,6 +62,8 @@ public class Main {
 
                 case 5:
                     System.out.println(" Exiting Program");
+                    sc.close();
+
                     System.exit(0);
 
                 default:
